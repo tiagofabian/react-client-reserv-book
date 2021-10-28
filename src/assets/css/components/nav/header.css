@@ -1,0 +1,32 @@
+.header {
+    border: 1px solid black;
+    list-style-type: none;
+    width: auto;
+    display: flex;
+    padding: 8px;
+    font-family: cursive;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    margin: 0px;
+}
+
+.item {
+    margin-right: 8px;
+    margin-left: 8px;
+    text-decoration: none;
+}
+
+.link {
+    color:rgb(185, 173, 0);
+}
+
+.submenu {
+    margin-right: 8px;
+    margin-left: 8px;
+    text-decoration: none;
+}
+
+.option {
+    padding-left: 75px;
+    list-style-type: none;
+}
